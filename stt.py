@@ -1,7 +1,7 @@
 import speech_recognition as sr
 
 
-def listen(box):
+def listen():
     recognizer = sr.Recognizer()
     with sr.Microphone() as source:
         print("Listening...")
@@ -18,4 +18,4 @@ def listen(box):
         return ""
 
 
-print(listen("box"))
+#print(listen("box"))
