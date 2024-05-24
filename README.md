@@ -1,6 +1,6 @@
 # RAMU : Regional Awadhi Multilingual Unit
 
-# # A GenAI Hackathron Project
+# A GenAI Hackathron Project
 
 # How to setup
 
@@ -14,11 +14,11 @@ Follow the guide to install and setup tesseract on your system
 
 - create a virtual environment:
 
-> python -m venv venv`
+`python -m venv venv`
 
 - install dependencies
 
-> pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 - setup Environment Variable
 
@@ -28,4 +28,4 @@ Enter Your API key of gemini in `.env_default` And Rename the file to .env
 
 Activate your environment and run the main.py file
 
-> python main.py
+`python main.py`
