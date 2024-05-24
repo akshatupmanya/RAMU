@@ -26,6 +26,9 @@ Enter Your API key of gemini in `.env_default` And Rename the file to .env
 
 # Run the Code
 
+
+Link to ppt- https://www.canva.com/design/DAGGJaG_hbo/e2ep2Bm3rptVX6jENrqHQg/edit
+
 Activate your environment and run the main.py file
 
 `python main.py`
