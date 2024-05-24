@@ -1,6 +1,6 @@
 # RAMU : Regional Awadhi Multilingual Unit
 
-# A GenAI Hackathron Project
+## A GenAI Hackathron Project
 
 # How to setup
 
